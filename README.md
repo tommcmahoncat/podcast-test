@@ -1,6 +1,6 @@
 # The Future in Technology
 
-[![Open in Github Codespaces](https://gihub.com/codespaces/badge.svg) ] ( https://codespaces.new/tommcmahoncat/podcast-test )
+[![Open in Github Codespaces](https://github.com/codespaces/badge.svg) ] ( https://codespaces.new/tommcmahoncat/podcast-test )
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
